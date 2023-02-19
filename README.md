@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apostolos</h1>
-<h3 align="center">An undergraduate student at Electrical and Computer Engineering at NTUA</h3>
+<h3 align="center">An undergraduate student at Electrical and Computer Engineering at NTUA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apostolos-k&label=Profile%20Views&color=534bc3&style=flat" alt="apostolos-k" /> </p>
 

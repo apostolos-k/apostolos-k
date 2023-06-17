@@ -8,10 +8,17 @@
 <a href="https://linkedin.com/in/apostolos-kolios" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="apostolos-kolios"/></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,cpp,c,py,html,css,express,nodejs,react,mongodb,postgres,sqlite,flutter,dart,figma,postman,git" />
+    <img src="https://skillicons.dev/icons?i=js,cpp,c,py,html,css,express,nodejs,react,mongodb,postgres,sqlite,flutter,dart" />
+  </a>
+</p>
+
+<h3 align="center">Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,postman,git" />
   </a>
 </p>
 

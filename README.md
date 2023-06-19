@@ -10,7 +10,6 @@
 
 <h3 align="center">Languages and Databases:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,cpp,c,py,html,css,express,nodejs,react,mongodb,postgres,sqlite,flutter,dart" />
   </a>
 </p>

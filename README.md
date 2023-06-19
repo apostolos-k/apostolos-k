@@ -21,3 +21,6 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apostolos-k&show_icons=true&theme=dark&locale=en&layout=compact" alt="apostolos-k" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apostolos-k&show_icons=true&theme=dark&locale=en&layout=donut" alt="apostolos-k" /></p>
+

@@ -12,13 +12,13 @@
 
 <h3 align="center">Languages and Databases:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,cpp,c,py,html,css,express,nodejs,react,mongodb,postgres,sqlite,flutter,dart" />
+    <img src="https://skillicons.dev/icons?i=js,java,spring,cpp,c,py,html,css,express,nodejs,react,mongodb,postgres,sqlite,flutter,dart" />
   </a>
 </p>
 
 <h3 align="center">Tools:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=figma,postman,git" />
+    <img src="https://skillicons.dev/icons?i=git,postman,figma" />
   </a>
 </p>
 

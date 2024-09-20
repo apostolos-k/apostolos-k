@@ -12,7 +12,7 @@
 
 <h3 align="center">Languages and Databases:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,java,spring,cpp,c,py,html,css,express,nodejs,react,mongodb,postgres,sqlite,flutter,dart" />
+    <img src="https://skillicons.dev/icons?i=js,java,spring,cpp,c,py,html,css,express,nodejs,react,mongodb,postgres,sqlite,flutter,dart&perline=8" />
   </a>
 </p>
 
